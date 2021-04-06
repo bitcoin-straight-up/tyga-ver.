@@ -1,4 +1,4 @@
-我是使用vs code的jupyter做開發
+我是使用vs code的jupyter lab做開發
 若您還沒設置好 請先安裝好此外掛
 若在import中有錯誤代碼 可能是還沒pip install
 請使用終端機完成install
